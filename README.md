@@ -12,8 +12,7 @@
 
 ### Языки и инструменты:
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg' alt='python' height='40'>](0)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/jupyter.svg' alt='jupyter' height='40'>](0)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg' alt='python' height='40'>](0) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/jupyter.svg' alt='jupyter' height='40'>](0) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mysql.svg' alt='mysql' height='40'>](0) 
 
 ### Социальные сети:
 
